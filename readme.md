@@ -5,4 +5,4 @@ JR2Rescue は JR-200 でプログラムなどを記録した WAVファイルをC
 ### 読み込み可能 WAV ファイル  
 サンプリング周波数　22kHz～48kHz、8bit または 16bit 量子化。チャネル数 1または2。リニア PCM のみ。  
   
-詳細は下記ページへ[https://find-jr200.github.io/jr2rescue.html](https://find-jr200.github.io/jr2rescue.html)
+詳細は下記ページへ [https://find-jr200.github.io/jr2rescue.html](https://find-jr200.github.io/jr2rescue.html)
